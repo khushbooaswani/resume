@@ -1,2 +1,2 @@
 # resume
-resume using HTML, CSS and JavaScript
+resume using HTML and CSS
